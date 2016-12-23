@@ -29,4 +29,4 @@ install:
 script:
   # Validate swagger/zally-test.json file from original repository
   - cd cli
-  - bin/zally ../../swagger/zally-test.json
+  - bin/zally ../../swagger/todo.yml
